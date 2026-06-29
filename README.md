@@ -46,3 +46,17 @@ I enjoy building production-ready engineering projects that combine:
 - 📊 Observability
 - ⚙️ Infrastructure as Code
 - 🚀 CI/CD Automation
+
+  ---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=godfredokpoti-devops&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=godfredokpoti-devops&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfredokpoti-devops&layout=compact&theme=tokyonight"/>
+
+</p>
