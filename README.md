@@ -2,10 +2,7 @@
 
 # 👋 Hi, I'm Godfred Okpoti
 
-### Senior Platform Engineer | AI Infrastructure Engineer | Cloud Platform Engineer | MLOps Engineer | DevSecOps | Cloud Security
-
-Building secure, scalable cloud-native platforms for AI, Kubernetes, Identity Governance, Zero Trust, and Enterprise Automation.
-
+### Principal AI Infrastructure Engineer | Platform Engineering | Cloud Native | MLOps | LLMOps | AI Platform | Kubernetes | DevSecOps | Platform Security | Infrastructure as Code | Multi-Cloud | Agentic AI
 ---
 
 <p align="center">
@@ -34,19 +31,24 @@ Building secure, scalable cloud-native platforms for AI, Kubernetes, Identity Go
 
 # 🚀 About Me
 
-I'm a Platform Engineer passionate about designing highly available cloud-native infrastructure, Kubernetes platforms, enterprise identity governance solutions, AI infrastructure, automation, and secure DevSecOps pipelines.
+I design and build production-scale cloud-native platforms that support AI infrastructure, Kubernetes operations, enterprise identity governance, platform security, automation, and developer productivity.
 
-I enjoy building production-ready engineering projects that combine:
+My work focuses on building reliable, secure, and scalable engineering systems across cloud infrastructure, Kubernetes platforms, Infrastructure as Code, CI/CD automation, observability, DevSecOps, MLOps, LLMOps, and enterprise IAM.
 
-- ☁️ Cloud Infrastructure
-- ☸️ Kubernetes Platforms
-- 🔐 Identity & Access Management (IAM)
-- 🛡️ Zero Trust Security
-- 🤖 AI Infrastructure
-- 📊 Observability
-- ⚙️ Infrastructure as Code
-- 🚀 CI/CD Automation
+I enjoy solving complex infrastructure problems, reducing operational risk, improving deployment reliability, and building platforms that help engineering teams move faster with stronger security and governance.
 
+## Core Engineering Focus
+
+- Cloud-Native Platform Engineering
+- AI Infrastructure and AI Platform Engineering
+- Kubernetes Platform Operations
+- MLOps and LLMOps Infrastructure
+- DevSecOps and Platform Security
+- Infrastructure as Code with Terraform
+- CI/CD and GitOps Automation
+- Enterprise Identity and Access Governance
+- Zero Trust Security Architecture
+- Observability, Reliability, and SRE Practices
   ---
 
 # 📊 GitHub Statistics
