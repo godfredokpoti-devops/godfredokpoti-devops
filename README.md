@@ -71,6 +71,54 @@ Every platform I build is designed around:
 - Multi-Cloud Architecture (AWS, Azure)
 - Python Automation & Platform Tooling
   ---
+
+  ## 🛠 Technology Stack
+
+### Languages
+- Python
+- Go
+- Bash
+- SQL
+
+### AI / Machine Learning
+- OpenAI
+- LangChain
+- LLMOps
+- RAG
+- FastAPI
+
+### Cloud Platforms
+- AWS
+- Azure
+
+### Containers
+- Docker
+- Kubernetes
+- Helm
+
+### Infrastructure as Code
+- Terraform
+- CloudFormation
+
+### CI/CD
+- GitHub Actions
+- ArgoCD
+- GitOps
+
+### Observability
+- Prometheus
+- Grafana
+- OpenTelemetry
+
+### Security
+- DevSecOps
+- IAM
+- RBAC
+- Zero Trust
+
+### Databases
+- PostgreSQL
+- Redis
   
   ## Current Focus
 
@@ -91,7 +139,16 @@ Currently building and researching production-ready engineering platforms around
 
 ## ☁️ CloudSphere AI Platform
 
-Enterprise cloud-native AI platform built with Kubernetes, Terraform, GitOps, observability, and cloud automation.
+Enterprise-grade AI platform for deploying, managing and scaling cloud-native AI workloads on Kubernetes using GitOps automation.
+
+Highlights
+
+• GitOps deployment pipeline using ArgoCD
+• Infrastructure provisioning with Terraform
+• Kubernetes production deployment
+• Prometheus & Grafana monitoring
+• Secure workload isolation
+• Automated CI/CD with GitHub Actions
 
 **Technologies**
 
@@ -109,32 +166,52 @@ Enterprise cloud-native AI platform built with Kubernetes, Terraform, GitOps, ob
 
 ## 🔐 Enterprise Identity Governance Platform
 
-Production-ready identity governance platform implementing enterprise IAM, RBAC, Zero Trust security, Terraform automation, and cloud-native security controls.
+Production-ready identity governance platform implementing enterprise IAM, RBAC and Zero Trust architecture.
 
-**Technologies**
+Highlights
 
-- Terraform
-- Python
-- Flask
-- AWS IAM
-- RBAC
-- Zero Trust
-- GitHub Actions
+• Automated IAM provisioning
+• RBAC policy engine
+• Zero Trust implementation
+• Terraform infrastructure automation
+• Flask REST API
+• GitHub Actions pipeline
+
+Technologies
+
+Terraform
+Python
+Flask
+AWS IAM
+RBAC
+Zero Trust
+GitHub Actions
 
 ---
 
 ## 🤖 AI Resume Screening Platform
 
-AI-powered ATS analysis platform built using FastAPI, Python, PostgreSQL, Docker, and LLM-powered resume matching.
+Production-ready ATS platform capable of parsing resumes, ranking candidates and matching job descriptions using LLM-powered semantic search.
 
-**Technologies**
+Highlights
 
-- FastAPI
-- Python
-- PostgreSQL
-- Docker
-- OpenAI
+• Resume parser
+• Job matching engine
+• FastAPI REST API
+• PostgreSQL backend
+• Docker deployment
+• LLM integration
+• Automated CI/CD
 
+Technologies
+
+FastAPI
+Python
+PostgreSQL
+Docker
+OpenAI
+GitHub Actions
+REST API
 # 📊 GitHub Statistics
 
 <p align="center">
