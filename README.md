@@ -134,3 +134,76 @@ AI-powered ATS analysis platform built using FastAPI, Python, PostgreSQL, Docker
 - PostgreSQL
 - Docker
 - OpenAI
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=godfredokpoti-devops&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=godfredokpoti-devops&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfredokpoti-devops&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=godfredokpoti-devops&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=godfredokpoti-devops&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfredokpoti-devops&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+---
+
+# 📫 Connect With Me
+
+I'm always interested in discussing Platform Engineering, AI Infrastructure, Kubernetes, Cloud Architecture, DevSecOps, MLOps, LLMOps, and enterprise-scale engineering challenges.
+
+<p align="center">
+
+<a href="https://github.com/godfredokpoti-devops">
+<img src="https://img.shields.io/badge/GitHub-godfredokpoti--devops-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/godfred-okpoti-57837b149/">
+<img src="https://img.shields.io/badge/LinkedIn-Godfred%20Okpoti-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:godfred.os.deyoung@gmail.com">
+<img src="https://img.shields.io/badge/Email-elinamot2315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### Open to opportunities in:
+
+- Principal Platform Engineering
+- Principal AI Infrastructure Engineering
+- Staff Platform Engineering
+- Senior Platform Engineering
+- AI Platform Engineering
+- Cloud Platform Engineering
+- MLOps Engineering
+- LLMOps Engineering
+- DevSecOps Engineering
+- Site Reliability Engineering (SRE)
+- Kubernetes Platform Engineering
+- Cloud Security Engineering
+- Infrastructure Engineering
+- Multi-Cloud Architecture
+
+---
+
+*"Building secure, scalable, cloud-native platforms that empower engineering teams to move faster with confidence."*
