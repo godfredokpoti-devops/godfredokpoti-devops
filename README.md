@@ -37,6 +37,22 @@ Over the years, I've engineered infrastructure platforms that emphasize reliabil
 
 I enjoy solving large-scale engineering challenges by building reusable platforms, automating complex operational workflows, strengthening security posture, and enabling development teams to ship software faster with confidence.
 
+## Engineering Philosophy
+
+I believe modern platform engineering is about enabling development teams through automation, reliability, security, and self-service infrastructure.
+
+Every platform I build is designed around:
+
+- Automation over manual operations
+- Security by design
+- Infrastructure as Code
+- GitOps-first deployments
+- Observable production systems
+- High availability and resilience
+- Scalable Kubernetes architectures
+- AI-ready cloud platforms
+- Operational excellence
+
 ## Engineering Expertise
 
 - Cloud Platform Engineering
@@ -55,6 +71,21 @@ I enjoy solving large-scale engineering challenges by building reusable platform
 - Multi-Cloud Architecture (AWS, Azure)
 - Python Automation & Platform Tooling
   ---
+  
+  ## Current Focus
+
+Currently building and researching production-ready engineering platforms around:
+
+- AI Infrastructure Engineering
+- Kubernetes Platform Engineering
+- LLMOps
+- Agentic AI Systems
+- Platform Security
+- Enterprise Identity Governance
+- Cloud Native Architectures
+- Infrastructure Automation
+- Platform Observability
+- Developer Platforms
 
 # 🚀 Featured Engineering Projects
 
