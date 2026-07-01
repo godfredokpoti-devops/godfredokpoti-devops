@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Godfred Okpoti
 
-### Principal AI Infrastructure Engineer | Platform Engineering | Cloud Native | MLOps | LLMOps | AI Platform | Kubernetes | DevSecOps | Platform Security | Infrastructure as Code | Multi-Cloud | Agentic AI
+### Principal AI Infrastructure Engineer | Platform Engineering | AI Platform | Cloud Native | MLOps | LLMOps | Platform Security | Kubernetes | DevSecOps | Infrastructure as Code | Multi-Cloud | Agentic AI
 ---
 
 <p align="center">
@@ -31,39 +31,75 @@
 
 # 🚀 About Me
 
-I design and build production-scale cloud-native platforms that support AI infrastructure, Kubernetes operations, enterprise identity governance, platform security, automation, and developer productivity.
+I design and deliver production-scale cloud-native platforms that enable AI workloads, Kubernetes operations, enterprise identity, platform security, and developer productivity across modern cloud environments.
 
-My work focuses on building reliable, secure, and scalable engineering systems across cloud infrastructure, Kubernetes platforms, Infrastructure as Code, CI/CD automation, observability, DevSecOps, MLOps, LLMOps, and enterprise IAM.
+Over the years, I've engineered infrastructure platforms that emphasize reliability, automation, security, scalability, and operational excellence. My work spans platform engineering, AI infrastructure, DevSecOps, cloud architecture, Infrastructure as Code, and enterprise governance.
 
-I enjoy solving complex infrastructure problems, reducing operational risk, improving deployment reliability, and building platforms that help engineering teams move faster with stronger security and governance.
+I enjoy solving large-scale engineering challenges by building reusable platforms, automating complex operational workflows, strengthening security posture, and enabling development teams to ship software faster with confidence.
 
-## Core Engineering Focus
+## Engineering Expertise
 
-- Cloud-Native Platform Engineering
-- AI Infrastructure and AI Platform Engineering
-- Kubernetes Platform Operations
-- MLOps and LLMOps Infrastructure
-- DevSecOps and Platform Security
-- Infrastructure as Code with Terraform
-- CI/CD and GitOps Automation
-- Enterprise Identity and Access Governance
-- Zero Trust Security Architecture
-- Observability, Reliability, and SRE Practices
+- Cloud Platform Engineering
+- AI Infrastructure Engineering
+- Platform Engineering
+- Kubernetes & Container Platforms
+- MLOps & LLMOps
+- Agentic AI Infrastructure
+- Infrastructure as Code (Terraform)
+- CI/CD & GitOps Automation
+- DevSecOps & Platform Security
+- Enterprise Identity & Access Management (IAM)
+- Zero Trust Architecture
+- Cloud Networking & Security
+- Observability & Site Reliability Engineering
+- Multi-Cloud Architecture (AWS, Azure)
+- Python Automation & Platform Tooling
   ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Engineering Projects
 
-<p align="center">
+## ☁️ CloudSphere AI Platform
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=godfredokpoti-devops&show_icons=true&theme=tokyonight"/>
+Enterprise cloud-native AI platform built with Kubernetes, Terraform, GitOps, observability, and cloud automation.
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=godfredokpoti-devops&theme=tokyonight"/>
+**Technologies**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfredokpoti-devops&layout=compact&theme=tokyonight"/>
-
-</p>
+- Kubernetes
+- Terraform
+- Helm
+- GitHub Actions
+- Prometheus
+- Grafana
+- ArgoCD
+- AWS
+- Python
 
 ---
 
+## 🔐 Enterprise Identity Governance Platform
+
+Production-ready identity governance platform implementing enterprise IAM, RBAC, Zero Trust security, Terraform automation, and cloud-native security controls.
+
+**Technologies**
+
+- Terraform
+- Python
+- Flask
+- AWS IAM
+- RBAC
+- Zero Trust
+- GitHub Actions
+
 ---
 
+## 🤖 AI Resume Screening Platform
+
+AI-powered ATS analysis platform built using FastAPI, Python, PostgreSQL, Docker, and LLM-powered resume matching.
+
+**Technologies**
+
+- FastAPI
+- Python
+- PostgreSQL
+- Docker
+- OpenAI
